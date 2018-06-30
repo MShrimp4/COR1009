@@ -1,0 +1,9 @@
+Project By 1조 
+Date : 2018-04-29
+Name : 빨간 맛
+
+Files :
+ midiPetal2.py	 	: song.mid를 musicData[]로 바꿔서 sketch_hell.txt에 저장함
+ song.mid 	 	: 빨간 맛 midi 파일.
+ 01_CT_project2.ino	: 아두이노에 올라갈 파일. Arduino Mega 권장.
+ README		: 현재 문서
